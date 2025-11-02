@@ -56,11 +56,7 @@ while(1);
 
  
 **OUTPUT:**
-<br>
-<br>
-<br>
-<br>
-<br>
+<img width="1912" height="812" alt="image" src="https://github.com/user-attachments/assets/2b251bea-00df-4a4d-8993-d8e8df22a4c0" />
 
 **Result:**
 
